@@ -1,6 +1,6 @@
 # Login
 
-![preview](./.github/preview.jpg)
+![preview](./.github/preview.png)
 
 Projeto construido a exemplo do Frontend Developer Joe e implementado algumas melhorias.
 
