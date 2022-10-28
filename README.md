@@ -4,7 +4,7 @@
 
 Projeto construido a exemplo do Frontend Developer Joe e implementado algumas melhorias.
 
-[🔗 Clique aqui para acessar o projeto](https://devjoaogabriel.github.io/)
+[🔗 Clique aqui para acessar o projeto](https://personalized-login.vercel.app)
 
 ## ⚒️ Tecnologias:
 
